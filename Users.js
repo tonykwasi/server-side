@@ -18,8 +18,18 @@ const users = [
         id: 4,
         name: 'Chris',
         email: 'chris@gmail.com'
+    },
+    {
+        id: 5,
+        name: 'Ben',
+        email: 'ben@gmail.com'
+    },
+    {
+        id: 6,
+        name: 'Tony',
+        email: 'antony@gmail.com'
     }
 
 ]
 
-module.export = users;
+module.exports = users;
